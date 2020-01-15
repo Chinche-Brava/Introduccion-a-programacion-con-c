@@ -19,7 +19,7 @@ int main(int argc, char const *argv[]) {                                        
     printf("El numero: %d es primo\n",a);
   }
   else{
-    printf("El numero :%d es \n",a);
+    printf("El numero :%d no es \n",a);
   }
   return 0;
 }

@@ -1,0 +1,20 @@
+//ejercicio 9 pagina 18 y 19
+
+· 9 Este programa C incorrecto tiene varios errores que ya puedes detectar. Indica cuáles son:
+
+1 #include <stdio.h>
+2
+3 int a, b;
+4
+5 scanf ("%d", &a); scanf ("%d", &b)
+6 while (a <= b):
+7	scanf ("%d", &a)
+8	scanf ("%d", &b)
+9 printf ("%d %d\n", a, b);
+
+Primero no tiene la funcion main.
+Segundo hay dos scanf juntos y aun que esta permitido no es bueno hacerlo por que lo hace ilegible.
+Tercero el while no tiene laves a pesar de que son dos instrucciones de dos lineas de codigos diferentes.
+Cuarto a tres de los scanf le falta el punto y coma que esta al final de cada instruccion.
+
+
