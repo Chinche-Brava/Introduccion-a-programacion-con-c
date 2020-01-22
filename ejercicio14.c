@@ -1,4 +1,4 @@
-//Ejercicios de que muestra por pantalla relacionados con los tipos de datos y su usuario
+//Ejercicios de que muestra por pantalla relacionados con los tipos de datos y su uso
 //ejercicio numero: · 16 ¿Qué muestra por pantalla cada uno de estos programas? inciso a)
 #include <stdio.h>
 
